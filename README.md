@@ -13,7 +13,7 @@ Get perfect shadows every time for the non-designer.
 
 # Installation
 
-`npm i -D shadowizard`
+`npm i -D npm-shadowizard`
 
 
 Then...
